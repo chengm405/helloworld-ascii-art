@@ -1,3 +1,7 @@
+#ASCII Characters: '/', '\', '|', '>', '<', '_'
+#Github: https://github.com/Chubbyoda
+#Python
+
 print("""
  __            __   __                                __        ___
 |  |__   ____ |  | |  |   ____   __  _  _____________|  |    __| _/
