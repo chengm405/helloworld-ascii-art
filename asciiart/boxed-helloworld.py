@@ -1,4 +1,4 @@
-#ASCII Characters: '/', '\', '|', '>', '<', '_'
+#ASCII Characters: '/', '\', '|', '(', ')', '_', ':', '.'
 #Github: https://github.com/Chubbyoda
 #Python
 print("""
