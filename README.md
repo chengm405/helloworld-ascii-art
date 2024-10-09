@@ -1,2 +1,3 @@
 # helloworld-ascii-art
-ascii
+Overview
+Create ASCII Art of helloworld in your own unique way
